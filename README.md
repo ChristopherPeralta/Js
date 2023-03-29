@@ -1,3 +1,4 @@
 # Js
 
-# Aprendiendo JS. ejercicios
+# Aprendiendo Javascript 
+# ejercicios
